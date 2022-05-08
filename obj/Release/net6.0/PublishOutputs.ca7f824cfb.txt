@@ -1,0 +1,7 @@
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\jenkins-master-slave.exe
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\appsettings.Development.json
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\appsettings.json
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\jenkins-master-slave.dll
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\jenkins-master-slave.deps.json
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\jenkins-master-slave.runtimeconfig.json
+C:\Users\Skillmine\Desktop\jenkins-master-slave\output\jenkins-master-slave.pdb

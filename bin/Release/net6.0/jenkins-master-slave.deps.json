@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jenkins-master-slave/1.0.0": {
+        "runtime": {
+          "jenkins-master-slave.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jenkins-master-slave/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
